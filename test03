@@ -1,0 +1,12 @@
+total 9
+drwxr-xr-x   11 Alin-Des Administ     4096 Sep  2 21:37 .
+drwxr-xr-x    5 Alin-Des Administ        0 Sep  2 21:08 ..
+drwxr-xr-x   15 Alin-Des Administ     4096 Sep  2 21:37 .git
+-rw-r--r--    1 Alin-Des Administ        5 Aug 31 11:01 .gitignore
+drwxr-xr-x   13 Alin-Des Administ     4096 Aug 30 21:03 .idea
+-rw-r--r--    1 Alin-Des Administ       20 Aug 30 20:35 README.md
+-rw-r--r--    1 Alin-Des Administ      437 Aug 30 20:40 sda-java.iml
+drwxr-xr-x    3 Alin-Des Administ        0 Aug 30 20:49 src
+-rw-r--r--    1 Alin-Des Administ       58 Sep  2 21:24 test01
+-rw-r--r--    1 Alin-Des Administ       46 Sep  2 21:28 test02
+-rw-r--r--    1 Alin-Des Administ        0 Sep  2 21:37 test03
