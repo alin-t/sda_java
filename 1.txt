@@ -1,0 +1,10 @@
+total 10
+drwxr-xr-x    9 alin-luc Administ     4096 Sep  3 15:28 .
+drwxr-xr-x   12 alin-luc Administ     4096 Sep  3 15:04 ..
+drwxr-xr-x   15 alin-luc Administ     4096 Sep  3 15:27 .git
+-rw-r--r--    1 alin-luc Administ        5 Sep  2 11:14 .gitignore
+drwxr-xr-x   13 alin-luc Administ     4096 Sep  2 11:14 .idea
+-rw-r--r--    1 alin-luc Administ        0 Sep  3 15:28 1.txt
+-rw-r--r--    1 alin-luc Administ       20 Sep  2 11:14 README.md
+-rw-r--r--    1 alin-luc Administ      437 Sep  2 11:14 sda-java.iml
+drwxr-xr-x    3 alin-luc Administ        0 Sep  2 11:14 src
