@@ -1,14 +1,15 @@
 package sda.main;
 
+import sda.sorting.Bubble;
+
 /**
- * Created with IntelliJ IDEA.
- * User: Alin-Desktop
+  * User: Alin-Desktop
  * Date: 9/20/13
  * Time: 9:29 PM
- * To change this template use File | Settings | File Templates.
- */
+  */
 public class MainRunner {
     public static void main(String[] args) {
+        new Bubble().Stuff();
         System.out.println("test");
     }
 }
