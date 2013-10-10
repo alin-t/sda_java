@@ -6,7 +6,7 @@
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428482199" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428529756" ignored="false" />
     <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426256225" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
@@ -600,7 +600,11 @@
       <created>1381428498613</created>
       <updated>1381428498614</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add implementation for the insertion and also add unit tests">
+      <created>1381428561979</created>
+      <updated>1381428561979</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
