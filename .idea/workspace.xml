@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4178c5e3-28cf-4d1c-a84a-8715acc83bad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sda/sorting/InsertionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test Results - InsertionTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sda/sorting/Bubble.java" afterPath="$PROJECT_DIR$/src/sda/sorting/Bubble.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sda/sorting/ISort.java" afterPath="$PROJECT_DIR$/src/sda/sorting/ISort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sda/sorting/Insertion.java" afterPath="$PROJECT_DIR$/src/sda/sorting/Insertion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sda-java.iml" afterPath="$PROJECT_DIR$/sda-java.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381425525637" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428482199" ignored="false" />
     <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426256225" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
@@ -602,7 +596,11 @@
       <created>1381399293964</created>
       <updated>1381399293964</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add implementation for the insertion and also add unit tests">
+      <created>1381428498613</created>
+      <updated>1381428498614</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -678,7 +676,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="add insertion class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add implementation for the insertion and also add unit tests" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -694,6 +692,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="add bubble" />
     <MESSAGE value="add insertion class" />
+    <MESSAGE value="add implementation for the insertion and also add unit tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
