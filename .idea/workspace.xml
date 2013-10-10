@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4178c5e3-28cf-4d1c-a84a-8715acc83bad" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sda/sorting/Insertion.java" afterPath="$PROJECT_DIR$/src/sda/sorting/Insertion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sda/sorting/InsertionTest.java" afterPath="$PROJECT_DIR$/src/sda/sorting/InsertionTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428529756" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428566810" ignored="false" />
     <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426256225" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
     <file path="/Bubble.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426960366" ignored="false" />
-    <file path="/InsertionTest.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428233847" ignored="false" />
+    <file path="/InsertionTest.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381429767484" ignored="false" />
     <file path="/a.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381427774520" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +114,7 @@
       <file leaf-file-name="Insertion.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sda/sorting/Insertion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="19" selection-start="339" selection-end="350" vertical-scroll-proportion="0.15492958">
+            <state line="25" column="30" selection-start="650" selection-end="650" vertical-scroll-proportion="0.36619717">
               <folding />
             </state>
           </provider>
@@ -121,7 +123,7 @@
       <file leaf-file-name="InsertionTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sda/sorting/InsertionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="28" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+            <state line="33" column="0" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,8 +160,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/sda/sorting/ISort.java" />
         <option value="$PROJECT_DIR$/src/sda/sorting/Bubble.java" />
-        <option value="$PROJECT_DIR$/src/sda/sorting/Insertion.java" />
         <option value="$PROJECT_DIR$/src/sda/sorting/InsertionTest.java" />
+        <option value="$PROJECT_DIR$/src/sda/sorting/Insertion.java" />
       </list>
     </option>
   </component>
@@ -287,7 +289,7 @@
       <recent name="sda.sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.InsertionTest">
+  <component name="RunManager" selected="JUnit.InsertionTest.testDoSortArray">
     <configuration default="false" name="InsertionTest.testDoSort" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -396,7 +398,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -552,9 +560,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.InsertionTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortArray" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortReturnArrayWhenOnly1Element" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortArray" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortReturnArrayWhenOnly1Element" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.InsertionTest" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortReturnsNullWhenEmptyArray" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSort" />
       </list>
@@ -604,12 +612,16 @@
       <created>1381428561979</created>
       <updated>1381428561979</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add implementation for the insertion and also add unit tests">
+      <created>1381428570484</created>
+      <updated>1381428570484</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -629,7 +641,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2482066" sideWeight="0.6546135" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2482066" sideWeight="0.6546135" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34538653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -706,20 +718,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sda/sorting/ISort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/sorting/Bubble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/main/MainRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
@@ -804,9 +802,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="25" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.3533654">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="0.34965035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/sorting/InsertionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+        <state line="33" column="0" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -815,7 +827,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/sorting/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="19" selection-start="339" selection-end="350" vertical-scroll-proportion="0.15492958">
+        <state line="25" column="30" selection-start="650" selection-end="650" vertical-scroll-proportion="0.36619717">
           <folding />
         </state>
       </provider>

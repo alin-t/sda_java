@@ -30,7 +30,7 @@ public class InsertionTest {
     // 1 3 5 2 6 9
     @Test
     public void testDoSortArray() {
-        Insertion insert = new Insertion(new int[]{1, 3, 5, 2, 6, 9});
+        Insertion insert = new Insertion(new int[]{9, 6, 5, 3, 2, 1});
         insert.doSort();
         Assert.assertEquals(6, insert.getData().length);
         Assert.assertEquals(1, insert.getData()[0]);
