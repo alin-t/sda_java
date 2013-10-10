@@ -11,7 +11,8 @@ public class Bubble implements ISort {
     }
 
     @Override
-    public void doSort() {
+    public int[] doSort() {
         //To change body of implemented methods use File | Settings | File Templates.
+        return null;
     }
 }

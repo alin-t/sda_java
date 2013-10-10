@@ -8,5 +8,5 @@ package sda.sorting;
  * To change this template use File | Settings | File Templates.
  */
 public interface ISort {
-    public void doSort();
+    public int[] doSort();
 }
