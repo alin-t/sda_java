@@ -4,11 +4,9 @@ import org.junit.Test;
 import org.junit.Assert;
 
 /**
- * Created with IntelliJ IDEA.
- * User: alin
- * Date: 10/10/13
- * Time: 7:31 PM
- * To change this template use File | Settings | File Templates.
+ * User: Alin-Desktop
+ * Date: 8/30/13
+ * Time: 8:49 PM
  */
 public class InsertionTest {
 

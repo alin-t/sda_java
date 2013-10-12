@@ -1,11 +1,9 @@
 package sda.sorting;
 
 /**
- * Created with IntelliJ IDEA.
- * User: alin-lucian.taranu
- * Date: 10/10/13
- * Time: 10:14 AM
- * To change this template use File | Settings | File Templates.
+ * User: Alin-Desktop
+ * Date: 8/30/13
+ * Time: 8:49 PM
  */
 public interface ISort {
     public int[] doSort();
