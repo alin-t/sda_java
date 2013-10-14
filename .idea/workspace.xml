@@ -6,15 +6,15 @@
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381752302451" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381754857480" ignored="false" />
     <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381613990316" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
     <file path="/Bubble.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381752190978" ignored="false" />
     <file path="/InsertionTest.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381429767484" ignored="false" />
     <file path="/a.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381427774520" ignored="false" />
-    <file path="/ActionScript File Header.txt.ft" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381613503605" ignored="false" />
-    <file path="/File Header.txt.ft" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381613515915" ignored="false" />
+    <file path="/ActionScript File Header.txt.ft" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381754925180" ignored="false" />
+    <file path="/File Header.txt.ft" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381754917467" ignored="false" />
     <file path="/MergeSort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381751031761" ignored="false" />
     <file path="/MainRunner.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381752280748" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -137,7 +137,7 @@
       <file leaf-file-name="MainRunner.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sda/main/MainRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="44" selection-start="218" selection-end="218" vertical-scroll-proportion="0.28544775">
+            <state line="16" column="90" selection-start="339" selection-end="339" vertical-scroll-proportion="0.27537796">
               <folding />
             </state>
           </provider>
@@ -688,7 +688,11 @@
       <created>1381752320211</created>
       <updated>1381752320211</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add implementation for the insertion and also add unit tests">
+      <created>1381754861495</created>
+      <updated>1381754861495</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -713,8 +717,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24785802" sideWeight="0.59033614" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40966386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24785802" sideWeight="0.59033614" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40966386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -893,7 +897,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/main/MainRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="44" selection-start="218" selection-end="218" vertical-scroll-proportion="0.28544775">
+        <state line="16" column="90" selection-start="339" selection-end="339" vertical-scroll-proportion="0.27537796">
           <folding />
         </state>
       </provider>
