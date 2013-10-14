@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4178c5e3-28cf-4d1c-a84a-8715acc83bad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sda/sorting/Bubble.java" afterPath="$PROJECT_DIR$/src/sda/sorting/Bubble.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sda/main/MainRunner.java" afterPath="$PROJECT_DIR$/src/sda/main/MainRunner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381751146560" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381752302451" ignored="false" />
     <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381613990316" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
@@ -139,7 +137,7 @@
       <file leaf-file-name="MainRunner.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sda/main/MainRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="30" selection-start="197" selection-end="197" vertical-scroll-proportion="0.31716418">
+            <state line="13" column="44" selection-start="218" selection-end="218" vertical-scroll-proportion="0.28544775">
               <folding />
             </state>
           </provider>
@@ -686,7 +684,11 @@
       <created>1381751149177</created>
       <updated>1381751149177</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add implementation for the insertion and also add unit tests">
+      <created>1381752320211</created>
+      <updated>1381752320211</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -891,7 +893,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/main/MainRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="30" selection-start="197" selection-end="197" vertical-scroll-proportion="0.31716418">
+        <state line="13" column="44" selection-start="218" selection-end="218" vertical-scroll-proportion="0.28544775">
           <folding />
         </state>
       </provider>
