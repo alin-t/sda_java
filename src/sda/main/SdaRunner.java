@@ -8,7 +8,7 @@ import sda.sorting.MergeSort;
  * Date: 9/20/13
  * Time: 9:29 PM
  */
-public class MainRunner {
+public class SdaRunner {
     public static void main(String[] args) {
 
     }

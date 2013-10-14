@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4178c5e3-28cf-4d1c-a84a-8715acc83bad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/ProblemsRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/ReverseString.java" />
+      <change type="MOVED" beforePath="C:\Users\alin-lucian.taranu\IdeaProjects\sda-java\src\sda\main\MainRunner.java" afterPath="$PROJECT_DIR$/src/sda/main/SdaRunner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381754857480" ignored="false" />
-    <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381613990316" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381757436763" ignored="false" />
+    <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381758037308" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
     <file path="/Bubble.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381752190978" ignored="false" />
@@ -17,6 +20,8 @@
     <file path="/File Header.txt.ft" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381754917467" ignored="false" />
     <file path="/MergeSort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381751031761" ignored="false" />
     <file path="/MainRunner.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381752280748" ignored="false" />
+    <file path="/ReverseString.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381757820473" ignored="false" />
+    <file path="/ProblemsRunner.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381758013427" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +73,7 @@
       </breakpoint>
     </breakpoint_any>
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/sda/main/MainRunner.java" line="8" class="sda.main.MainRunner" package="sda.main">
+      <breakpoint url="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java" line="8" class="sda.main.MainRunner" package="sda.main">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -134,10 +139,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainRunner.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sda/main/MainRunner.java">
+      <file leaf-file-name="SdaRunner.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="90" selection-start="339" selection-end="339" vertical-scroll-proportion="0.27537796">
+            <state line="13" column="24" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProblemsRunner.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problems/ProblemsRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="30" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseString.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problems/ReverseString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="17" selection-start="233" selection-end="233" vertical-scroll-proportion="0.31716418">
               <folding />
             </state>
           </provider>
@@ -146,7 +169,7 @@
       <file leaf-file-name="Insertion.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sda/sorting/Insertion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="35" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
+            <state line="30" column="0" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,7 +178,7 @@
       <file leaf-file-name="MergeSort.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sda/sorting/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="30" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0">
+            <state line="32" column="0" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -202,7 +225,10 @@
         <option value="$PROJECT_DIR$/src/sda/sorting/Insertion.java" />
         <option value="$PROJECT_DIR$/src/sda/sorting/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/sda/sorting/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/problems/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/sda/main/MainRunner.java" />
+        <option value="$PROJECT_DIR$/src/sda/main/SdaRunner.java" />
+        <option value="$PROJECT_DIR$/src/problems/ProblemsRunner.java" />
       </list>
     </option>
   </component>
@@ -298,6 +324,28 @@
               <option name="myItemId" value="sda" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sda-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sda-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -317,12 +365,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -332,7 +380,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="Application.Problems">
     <configuration default="false" name="InsertionTest.testDoSort" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -499,19 +547,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -540,6 +575,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="sda.main.MainRunner" />
@@ -553,6 +601,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -576,16 +631,9 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
-    <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
+    <configuration default="false" name="Sda" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="sda.main.MainRunner" />
+      <option name="MAIN_CLASS_NAME" value="sda.main.SdaRunner" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -606,13 +654,31 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSort" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortReturnsNullWhenEmptyArray" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.InsertionTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortReturnArrayWhenOnly1Element" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortArray" />
+    <configuration default="false" name="Problems" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="problems.ProblemsRunner" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sda-java" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Application.Sda" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Problems" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSort" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortReturnsNullWhenEmptyArray" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.InsertionTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortReturnArrayWhenOnly1Element" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.InsertionTest.testDoSortArray" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -692,7 +758,11 @@
       <created>1381754861495</created>
       <updated>1381754861495</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add implementation for the insertion and also add unit tests">
+      <created>1381754938970</created>
+      <updated>1381754938970</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -717,12 +787,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24785802" sideWeight="0.59033614" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40966386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24785802" sideWeight="0.59033614" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40966386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -794,20 +864,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sda/sorting/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/sorting/ISort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/sorting/Bubble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -815,7 +871,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/main/MainRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
           <folding />
@@ -862,7 +918,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/sorting/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="35" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
+        <state line="30" column="0" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -883,7 +939,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/sorting/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="30" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0">
+        <state line="32" column="0" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -895,9 +951,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/main/MainRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="90" selection-start="339" selection-end="339" vertical-scroll-proportion="0.27537796">
+        <state line="13" column="24" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/ProblemsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="17" selection-start="233" selection-end="233" vertical-scroll-proportion="0.31716418">
           <folding />
         </state>
       </provider>
