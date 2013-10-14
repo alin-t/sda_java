@@ -10,12 +10,16 @@ import sda.sorting.MergeSort;
  */
 public class MainRunner {
     public static void main(String[] args) {
-        new Bubble().Stuff();
-        System.out.println("test");
 
         MergeSort mergeSort = new MergeSort();
 
-        int[] toMerge = new int[]{1, 3, 2, 5, 9};
-        mergeSort.merge(toMerge, 0, 2, 4);
+        int[] toMerge = new int[]{1, 5, 9, 2,3, 11, 13, 21, 4};
+        mergeSort.mergeSort(toMerge, 0, 8, "root");
+        /*
+        for(int i = 0; i < toMerge.length; i++) {
+            System.out.println(toMerge[i]);
+        }
+        */
+
     }
 }
