@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4178c5e3-28cf-4d1c-a84a-8715acc83bad" name="Default" comment="add implementation for the insertion and also add unit tests">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sda/main/MainRunner.java" afterPath="$PROJECT_DIR$/src/sda/main/MainRunner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sda/sorting/MergeSort.java" afterPath="$PROJECT_DIR$/src/sda/sorting/MergeSort.java" />
+    <list default="true" id="4178c5e3-28cf-4d1c-a84a-8715acc83bad" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381739740910" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381751138369" ignored="false" />
     <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381613990316" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
@@ -600,7 +598,11 @@
       <created>1381431193073</created>
       <updated>1381431193073</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add implementation for the insertion and also add unit tests">
+      <created>1381751143862</created>
+      <updated>1381751143862</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
