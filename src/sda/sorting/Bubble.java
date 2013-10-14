@@ -6,13 +6,25 @@ package sda.sorting;
  * Time: 8:49 PM
  */
 public class Bubble implements ISort {
-    public void Stuff() {
-        System.out.println("stuff");
+    private int[] set;
+
+    public Bubble(int[] set) {
+        this.set = set;
     }
 
     @Override
     public int[] doSort() {
-        //To change body of implemented methods use File | Settings | File Templates.
-        return null;
+
+        for (int i = 0; i < set.length; i++) {
+            for (int j = set.length - 1; i < j; j--) {
+                if (set[i] > set[j]) {
+                    int tmp = set[i];
+                    set[i] = set[j];
+                    set[j] = tmp;
+                }
+            }
+        }
+
+        return set;
     }
 }
