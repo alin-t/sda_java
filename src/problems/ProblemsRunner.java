@@ -11,5 +11,9 @@ public class ProblemsRunner {
         String toReverse = "Madam, I'm Adam";
 
         System.out.println(ReverseString.reverse(toReverse));
+
+        for(int i = 0; i < 20; i++)
+            System.out.print(Fibonacci.fib(i) + ", ");
+        System.out.println(Fibonacci.fib(20));
     }
 }

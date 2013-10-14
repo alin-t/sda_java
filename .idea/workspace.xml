@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4178c5e3-28cf-4d1c-a84a-8715acc83bad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/ProblemsRunner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/ReverseString.java" />
-      <change type="MOVED" beforePath="C:\Users\alin-lucian.taranu\IdeaProjects\sda-java\src\sda\main\MainRunner.java" afterPath="$PROJECT_DIR$/src/sda/main/SdaRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/Fibonacci.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/problems/ProblemsRunner.java" afterPath="$PROJECT_DIR$/src/problems/ProblemsRunner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381757436763" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381758936499" ignored="false" />
     <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381758037308" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
@@ -21,7 +20,8 @@
     <file path="/MergeSort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381751031761" ignored="false" />
     <file path="/MainRunner.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381752280748" ignored="false" />
     <file path="/ReverseString.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381757820473" ignored="false" />
-    <file path="/ProblemsRunner.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381758013427" ignored="false" />
+    <file path="/ProblemsRunner.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381760614080" ignored="false" />
+    <file path="/Fibonacci.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381760497264" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,19 +148,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProblemsRunner.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ProblemsRunner.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/problems/ProblemsRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="30" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
+            <state line="15" column="89" selection-start="366" selection-end="366" vertical-scroll-proportion="0.47574627">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseString.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ReverseString.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problems/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="17" selection-start="233" selection-end="233" vertical-scroll-proportion="0.31716418">
+            <state line="10" column="17" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fibonacci.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problems/Fibonacci.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="52" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -228,6 +237,7 @@
         <option value="$PROJECT_DIR$/src/problems/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/sda/main/MainRunner.java" />
         <option value="$PROJECT_DIR$/src/sda/main/SdaRunner.java" />
+        <option value="$PROJECT_DIR$/src/problems/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/problems/ProblemsRunner.java" />
       </list>
     </option>
@@ -762,7 +772,11 @@
       <created>1381754938970</created>
       <updated>1381754938970</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add implementation for the insertion and also add unit tests">
+      <created>1381758941044</created>
+      <updated>1381758941044</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -864,13 +878,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sda/sorting/Bubble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
@@ -958,16 +965,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems/ProblemsRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/problems/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
+        <state line="10" column="17" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems/ReverseString.java">
+    <entry file="file://$PROJECT_DIR$/src/problems/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="17" selection-start="233" selection-end="233" vertical-scroll-proportion="0.31716418">
+        <state line="9" column="52" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/ProblemsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="89" selection-start="366" selection-end="366" vertical-scroll-proportion="0.47574627">
           <folding />
         </state>
       </provider>
