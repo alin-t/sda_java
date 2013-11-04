@@ -6,7 +6,7 @@
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1383577105695" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1383577147835" ignored="false" />
     <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381758037308" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
@@ -160,7 +160,7 @@
       <file leaf-file-name="MatrixMultiplier.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/problems/MatrixMultiplier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="34" selection-start="587" selection-end="587" vertical-scroll-proportion="0.3753943">
+            <state line="21" column="34" selection-start="587" selection-end="587" vertical-scroll-proportion="0.3936053">
               <folding />
             </state>
           </provider>
@@ -286,6 +286,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -369,7 +370,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,12 +386,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -568,6 +568,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -596,19 +609,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="sda.main.MainRunner" />
@@ -622,13 +622,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -650,6 +643,13 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="false" name="Sda" type="Application" factoryName="Application">
@@ -807,7 +807,11 @@
       <created>1383577006170</created>
       <updated>1383577006170</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add implementation for the insertion and also add unit tests">
+      <created>1383577114528</created>
+      <updated>1383577114528</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1010,7 +1014,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problems/MatrixMultiplier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="34" selection-start="587" selection-end="587" vertical-scroll-proportion="0.3753943">
+        <state line="21" column="34" selection-start="587" selection-end="587" vertical-scroll-proportion="0.3936053">
           <folding />
         </state>
       </provider>
