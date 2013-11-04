@@ -17,6 +17,7 @@ public class MatrixMultiplier {
         int[][] result = new int[firstLength][secondHeight];
 
         for(int i=0; i < firstLength; i++) {
+
             for(int j=0; j < secondLength; j++) {
                 result[i][j] = 0;
                 for(int k = 0; k < firstHeight; k++) {
