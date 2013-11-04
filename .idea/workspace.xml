@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4178c5e3-28cf-4d1c-a84a-8715acc83bad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/Fibonacci.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/MatrixMultiplier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/StringPatternMatching.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/problems/ProblemsRunner.java" afterPath="$PROJECT_DIR$/src/problems/ProblemsRunner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sda-java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381758936499" ignored="false" />
+    <file path="/Dummy.txt" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1383557007248" ignored="false" />
     <file path="/fragment.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381758037308" ignored="false" />
     <file path="/ISort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381426922031" ignored="false" />
     <file path="/Insertion.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381428017951" ignored="false" />
@@ -20,8 +21,10 @@
     <file path="/MergeSort.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381751031761" ignored="false" />
     <file path="/MainRunner.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381752280748" ignored="false" />
     <file path="/ReverseString.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381757820473" ignored="false" />
-    <file path="/ProblemsRunner.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381760614080" ignored="false" />
+    <file path="/ProblemsRunner.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1383576711162" ignored="false" />
     <file path="/Fibonacci.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1381760497264" ignored="false" />
+    <file path="/StringPatternMatching.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1383560299429" ignored="false" />
+    <file path="/MatrixMultiplier.java" changelist="4178c5e3-28cf-4d1c-a84a-8715acc83bad" time="1383576382381" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +76,7 @@
       </breakpoint>
     </breakpoint_any>
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java" line="8" class="sda.main.MainRunner" package="sda.main">
+      <breakpoint url="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java" line="8" class="sda.main.SdaRunner" package="sda.main">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -148,10 +151,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProblemsRunner.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProblemsRunner.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problems/ProblemsRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="89" selection-start="366" selection-end="366" vertical-scroll-proportion="0.47574627">
+            <state line="31" column="32" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixMultiplier.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problems/MatrixMultiplier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="34" selection-start="587" selection-end="587" vertical-scroll-proportion="0.69320387">
               <folding />
             </state>
           </provider>
@@ -175,10 +187,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Insertion.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sda/sorting/Insertion.java">
+      <file leaf-file-name="StringPatternMatching.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problems/StringPatternMatching.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
+            <state line="8" column="18" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -238,7 +250,9 @@
         <option value="$PROJECT_DIR$/src/sda/main/MainRunner.java" />
         <option value="$PROJECT_DIR$/src/sda/main/SdaRunner.java" />
         <option value="$PROJECT_DIR$/src/problems/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/problems/StringPatternMatching.java" />
         <option value="$PROJECT_DIR$/src/problems/ProblemsRunner.java" />
+        <option value="$PROJECT_DIR$/src/problems/MatrixMultiplier.java" />
       </list>
     </option>
   </component>
@@ -275,8 +289,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -359,6 +371,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,12 +389,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -557,6 +571,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -585,19 +612,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="sda.main.MainRunner" />
@@ -611,13 +625,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -639,6 +646,13 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="false" name="Sda" type="Application" factoryName="Application">
@@ -776,7 +790,11 @@
       <created>1381758941044</created>
       <updated>1381758941044</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add implementation for the insertion and also add unit tests">
+      <created>1381760857029</created>
+      <updated>1381760857029</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -878,20 +896,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/sorting/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/sorting/ISort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="22" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
@@ -923,13 +927,6 @@
         <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="0.34965035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/sorting/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/sorting/InsertionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="0" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
@@ -958,9 +955,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/problems/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+        <state line="9" column="52" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -972,16 +969,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/sda/main/SdaRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="52" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+        <state line="13" column="24" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/sorting/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/StringPatternMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problems/ProblemsRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="89" selection-start="366" selection-end="366" vertical-scroll-proportion="0.47574627">
+        <state line="31" column="32" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/MatrixMultiplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="34" selection-start="587" selection-end="587" vertical-scroll-proportion="0.69320387">
           <folding />
         </state>
       </provider>
